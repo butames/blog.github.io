@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Seyram A. Butame
+  site_tagline: You see the Black Skin Blue Eyed Boys/ They ain't gonna fight no wars.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,10 +12,12 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'About'
       url: '/about'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog Posts'
+      url: '/blogposts'
     - title: 'Contact'
       url: '/contact'
 
