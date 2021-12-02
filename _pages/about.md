@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ## Features
 
-Journal is packed with powerful features to showcase your work:
+Journal is packed with powerful features to showcase your work: James
 
 * Beautiful, minimal design
 * Fixed sidebar images that animate as you browse
