@@ -1,10 +1,10 @@
 ---
 title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: If you wish to reach out to me, you may use the below form. Thanks!
+description: Seyram A. Butame's website and personal blog.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+This contact form was built using [Formspree](https://formspree.io/create/jekyllthemes).
