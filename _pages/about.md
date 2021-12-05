@@ -2,10 +2,10 @@
 title: About Seyram A. Butame
 subtitle: Just a little this and that about me, life, and my work.
 description: Just a little this and that about me, life, and my work.
-featured_image: /images/about/about-portrait.jpg
+featured_image: /images/about/about-niagarafalls.jpg
 ---
 
-![](/images/about/about-niagarafalls.jpg)
+![](/images/about/about-portrait.jpg)
 
 ## Welcome one and all!
 
