@@ -1,35 +1,22 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About Seyram A. Butame
+subtitle: Just a little this and that about me, life, and my work.
+description: Just a little this and that about me, life, and my work.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Features
+## Welcome one and all!
 
-Journal is packed with powerful features to showcase your work: James
+Hello everyone,
+Welcome to my small website. I am research faculty at [Florida State University, College of Medicine](https://med.fsu.edu/). I work within the [Center for Translational Behavioral Science (CTBScience)](https://ctbs.fsu.edu/). My academic background is in public health, specifically health policy and management. My current work focuses on implementing and sustaining interventions in clinical care settings focused on American youth at risk for HIV. The ongoing career journey is great so far!
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
 
-## Get Index
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+## Faculty Page/ Profile
+
+You may access my faculty profile using the button below.
+
+<a href="https://ctbs.fsu.edu/person/seyram-butame-phd" class="button button--large">Faculty Page</a>
