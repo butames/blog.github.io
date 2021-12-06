@@ -64,7 +64,7 @@ Scopus is Elsevier's abstract and citation database launched in 2004. Similar to
 
 ![Alt Text](https://thumbs.gfycat.com/ChubbySilentArabianwildcat-size_restricted.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qrEPGEhrdAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/ChubbySilentArabianwildcat' frameborder='0' scrolling='no' allowfullscreen width='640' height='402'></iframe>
 
 
 ---
