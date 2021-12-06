@@ -62,21 +62,6 @@ Scopus is Elsevier's abstract and citation database launched in 2004. Similar to
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57194108222" class="button button--large">SCOPUS Profile</a>
 
-![Alt Text](https://thumbs.gfycat.com/ChubbySilentArabianwildcat-size_restricted.gif)
-
-
-function initializeViz() {
-var placeholderDiv = document.getElementById("tableauViz");
-var url = "http://public.tableau.com/views/WorldIndicators/GDPpercapita";
-var options = {
- width: '600px',
- height: '600px',
- hideTabs: true,
- hideToolbar: true,
- };
-viz = new tableau.Viz(placeholderDiv, url, options);
-}
-
 ---
 
 **Image sources**: The images on this page are from a recent trip to Niagara Falls, New York, early in the year. It was the first time I had flown since the pandemic burst onto the scene.[^1],[^2] Some [fun facts](https://www.niagarafallsusa.com/planning-tools/about-niagara-falls/fun-facts/) about the Falls.
