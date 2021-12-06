@@ -62,7 +62,7 @@ Scopus is Elsevier's abstract and citation database launched in 2004. Similar to
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57194108222" class="button button--large">SCOPUS Profile</a>
 
-<center>![Alt Text](https://gfycat.com/chubbysilentarabianwildcat.gif)</center>
+![Alt Text](https://gfycat.com/chubbysilentarabianwildcat.gif)
 
 
 ---
