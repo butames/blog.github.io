@@ -61,3 +61,9 @@ Per their mission, ORCID  is "a global, not-for-profit organization sustained by
 Scopus is Elsevier's abstract and citation database launched in 2004. Similar to Google Scholar, Scopus offers researchers the opportunity to create and edit profiles covering affiliations, publications, bibliographic data, references, and other publication-related material. You may view the public version of my SCOPUS profile below.
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57194108222" class="button button--large">SCOPUS Profile</a>
+
+---
+
+###### Image Sources and Other Citations
+
+The images on this page are from a recent trip to Niagara Falls, New York, early in the year. It was the first time I had flown since the pandemic burst onto the scene. I took the self-portrait right after being deluged with water from the American Falls and the Bridal Veil Falls while riding the Maid of the Mist &#x2122;. The image from the sidebar is of Canada, with the Bridal Veil Falls immediately at left and the Horseshoe Falls in the distant left, both illuminated by multicolored lights.
