@@ -38,13 +38,14 @@ Below is a listing of some articles my colleagues and I have published in recent
 
 You may also access my other academic work via the below links. In recent years, there have been efforts to create social media networks for academics to connect and network with each other. The jury is still out on which of the numerous indexing and profiling sites are the best. Still, I provide links to some of the more popular ones, so click away and if you have any questions, feel free to reach out to me.
 
-**Google Scholar**
+**<center>Google Scholar</center>**
 
 This is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines. In recent years, individual researchers have been able to create Scholar Citations profiles. You may access my profile below.
 
 <a href="https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en" class="button button--large">Google Scholar</a>
 
 **ResearchGate**
+
 ResearchGate is a social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators. You may access my profile below.
 
 <a href="https://www.researchgate.net/profile/Seyram-Butame" class="button button--large">ResearchGate</a>
