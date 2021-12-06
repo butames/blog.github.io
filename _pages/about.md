@@ -38,7 +38,7 @@ Below is a listing of some articles my colleagues and I have published in recent
 
 You may also access my other academic work via the below links. In recent years, there have been efforts to create social media networks for academics to connect and network with each other. The jury is still out on which of the numerous indexing and profiling sites are the best. Still, I provide links to some of the more popular ones, so click away and if you have any questions, feel free to reach out to me.
 
-<center>Google Scholar</center>
+**Google Scholar**
 
 This is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines. In recent years, individual researchers have been able to create Scholar Citations profiles. You may access my profile below.
 
