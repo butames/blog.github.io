@@ -32,8 +32,8 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  twitter_url: 'https://twitter.com/butames'
+  instagram_url: 'https://www.instagram.com/butames/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -56,7 +56,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'www.linkedin.com/in/butames'
 
 color_settings:
   background_color: '#ffffff'
