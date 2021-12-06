@@ -64,7 +64,7 @@ Scopus is Elsevier's abstract and citation database launched in 2004. Similar to
 
 ---
 
-**Image sources**: The images on this page are from a recent trip to Niagara Falls, New York, early in the year. It was the first time I had flown since the pandemic burst onto the scene.[^1],[^2]
+**Image sources**: The images on this page are from a recent trip to Niagara Falls, New York, early in the year. It was the first time I had flown since the pandemic burst onto the scene.[^1],[^2] Some [fun facts](https://www.niagarafallsusa.com/planning-tools/about-niagara-falls/fun-facts/) about the Falls.
 
 [^1]: I took the self-portrait right after being deluged with water from the American Falls and the Bridal Veil Falls while riding the Maid of the Mist &#x2122;.
 [^2]: The image from the sidebar is of Niagara Falls, Ontario, Canada, with the American Falls and the Bridal Veil Falls immediately at left and the Horseshoe Falls in the distant left, both illuminated by multicolored lights.
