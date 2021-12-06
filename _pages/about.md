@@ -65,7 +65,17 @@ Scopus is Elsevier's abstract and citation database launched in 2004. Similar to
 ![Alt Text](https://thumbs.gfycat.com/ChubbySilentArabianwildcat-size_restricted.gif)
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ReceiptofHIV-RelatedMedicalCare-Age/Receipt_Med_Care" width = '650' height = '450' scrolling='yes' ></iframe>
+function initializeViz() {
+var placeholderDiv = document.getElementById("tableauViz");
+var url = "http://public.tableau.com/views/WorldIndicators/GDPpercapita";
+var options = {
+ width: '600px',
+ height: '600px',
+ hideTabs: true,
+ hideToolbar: true,
+ };
+viz = new tableau.Viz(placeholderDiv, url, options);
+}
 
 ---
 
