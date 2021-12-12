@@ -16,8 +16,6 @@ menu_settings:
       url: '/about'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog Posts'
-      url: '/blogposts'
     - title: 'Contact'
       url: '/contact'
 
