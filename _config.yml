@@ -13,9 +13,6 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  blogposts:
-    output: true
-    permalink: /blogposts/:slug
 
 defaults:
   -
