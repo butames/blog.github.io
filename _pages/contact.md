@@ -1,22 +1,10 @@
 ---
 title: Contact
-subtitle: If you wish to reach out to me, you may use the below form. Thanks!
-description: Seyram A. Butame's website and personal blog.
+subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
+description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/background/background2.jpg
 ---
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xzbobbyw" 
-      method="POST">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Submit">
-</form>
+{% include contact-form.html %}
 
-This contact form was built using [Formspree](https://formspree.io/create/jekyllthemes).
+We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
