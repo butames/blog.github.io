@@ -8,9 +8,10 @@ excerpt: Where I gripe some more about FSU using the seminole people as a mascot
 
 ![](/images/blog_images/2021-12-29-Gordos.png)
 
-> We smash cougars congrats lady noles.
+> "We smash cougars congrats lady noles."
 
 The signage references a football (soccer) match between FSU and BYU, which took place on December 06, 2021. FSU won its third women's national championship.
+
 __
 
 Today, I was driving near the FSU campus and noticed a popular local restaurant sign. The double entendre aside (i.e., having sex with a sexually promiscuous older woman), what is *"lady nole"*? This is a small part of what bothers me about FSU's insistence on using ethnicity as a mascot. People at FSU refer to themselves as Seminoles (after the indigenous group that once occupied the lands on which the University and the greater town of Tallahassee sits). Being a Seminole is meant to embody the fearless, undying and unconquerable spirit of the Seminole people. A group of people had to adopt that stance when facing the genuine existential threat of colonialism and foreign settlers encroaching on their traditional lands. 
