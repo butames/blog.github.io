@@ -10,7 +10,8 @@ excerpt: Where I gripe some more about FSU using the seminole people as a mascot
 
 > We smash cougars congrats lady noles.
 
-I believe the sign is referencing a football (soccer) match between FSU and BYU, which took place on December 06, 2021. FSU won its third women's national championship.
+The signage references a football (soccer) match between FSU and BYU, which took place on December 06, 2021. FSU won its third women's national championship.
+__
 
 Today, I was driving near the FSU campus and noticed a popular local restaurant sign. The double entendre aside (i.e., having sex with a sexually promiscuous older woman), what is *"lady nole"*? This is a small part of what bothers me about FSU's insistence on using ethnicity as a mascot. People at FSU refer to themselves as Seminoles (after the indigenous group that once occupied the lands on which the University and the greater town of Tallahassee sits). Being a Seminole is meant to embody the fearless, undying and unconquerable spirit of the Seminole people. A group of people had to adopt that stance when facing the genuine existential threat of colonialism and foreign settlers encroaching on their traditional lands. 
 
@@ -21,6 +22,8 @@ The signage would have been a fantastic opportunity to use the word for females/
 Also, why the insistence on gendering the football team? FSU doesn't have the *gentlemen noles*. We only get the female qualifier when referencing women's football, perhaps assuming that the men's game is the normalized template (a cultural issue we need to discuss some more). When I lived in Memphis, TN, this practice was such an irritant to me. The women's sports teams were called *"lady tigers"*. There is a perfectly serviceable word in English that denotes female tigers, yet the teams, posters, Univ administration, etc., chose that clunky turn of phrase. They emblazoned it on t-shirts, mugs, clappers, and all manner of sports doodads. It was exhausting.
 
 __
+
 [The FSU Semioles beat the BYU Cougars via penalties](https://www.espn.com/college-sports/story/_/id/32809371/florida-state-seminoles-outlast-byu-cougars-win-women-soccer-national-championship)
-Yujie Zhao rocketed home the winning penalty kick, and Florida State edged BYU 4-3 in PKs on Monday night to win its third women's national championship in program history and second in the past four years.
+
+> Yujie Zhao rocketed home the winning penalty kick, and Florida State edged BYU 4-3 in PKs on Monday night to win its third women's national championship in program history and second in the past four years.
 
