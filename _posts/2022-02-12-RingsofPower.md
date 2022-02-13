@@ -1,4 +1,3 @@
-
 ---
 title: 'A new Middle-Earth story is upon us'
 subtitle: 'Amazon is releasing the *Rings of Power* series soon and I am excited.'
