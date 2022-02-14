@@ -40,7 +40,7 @@ But I am pretty sure that Amazon's intentions to promote the show by highlightin
 	<img src="/images/blog_images/2022-02-12-Ringsofpower5.jpeg">
 </div>
 
-## Update
+## Update (02/13/2022)
 During the Super Bowl, Amazon released the first teaser trailer, and I am more excited than ever. Of course, there are complaints online. There is the unreasonable and bigotted variety based on the characters shown in the trailer; elves are not supposed to be black, etc. Then there is the type focused on technical parts such as an alleged use of CGI. I shall not be dissuaded. I vividly remember first reading about Bilbo Baggins, running to catch up with a group of Dwarves in search of adventure and treasure. I will not be dissuaded from basking in the excitement of having that world come to life on the screen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v7v1hIkYH24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
