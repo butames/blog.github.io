@@ -15,9 +15,10 @@ excerpt: The Rings of Power series based on Tolkien's earlier works will be rela
 Recently, a television series based on Tolkien's world of Middle Earth revealed some still images. The show for now titled, **"Rings of Power"**, is being produced by Amazon's streaming service. The show will chronicle some of the events described in the *Silmarillion* and captured in some of Tolkien's rough notes. I am excited, but oh boy, I am not looking forward to the inevitable backlash. Tolkien famously created a world rich in fantastical sentient beings but lacking diversity regarding humans. The humans we meet in his works are white and mostly male. Notable human female exceptions are Eowyn, niece of Theoden, the ruler of the Rohan, and slayer of the Witch-King of Angmar. There is also the unnamed healer woman at the end of *The Return of the King* (Loretta?), who declares that "The hands of the king are the hands of a healer."
 
 
-| ![nazgul](/images/blog_images/2022-02-12-Ringsofpower7.jpeg)| 
-|:--:| 
-| *Eowyn battling the Witch-King of Angmar* |
+<figure>
+  <img src="{{site.url}}/images/blog_images/2022-02-12-Ringsofpower7.jpeg "alt="Rivendell"/>
+  <figcaption>Eowyn battling the Witch-King of Angmar.</figcaption>
+</figure>
 
 Exceptions to the white people are the Southrons or the Haradrim (i.e., men of Harad). Brawny, swarthy, and darker-skinned people allied with Sauron--for the most part. It is a glaring absence of human diversity, and it has influenced the writings of many fantasy writers who have taken inspiration from  Tolkien. This means that high-fantasy in all media types, despite envisioning fantastic worlds, tend to be white and male.
 
@@ -38,6 +39,13 @@ But I am pretty sure that Amazon's intentions to promote the show by highlightin
 	<img src="/images/blog_images/2022-02-12-Ringsofpower4.jpeg">
 	<img src="/images/blog_images/2022-02-12-Ringsofpower5.jpeg">
 </div>
+
+## Update
+During the Super Bowl, Amazon released the first teaser trailer, and I am more excited than ever. Of course, there are complaints online. There is the unreasonable and bigotted variety based on the characters shown in the trailer; elves are not supposed to be black, etc. Then there is the type focused on technical parts such as an alleged use of CGI. I shall not be dissuaded. I vividly remember first reading about Bilbo Baggins, running to catch up with a group of Dwarves in search of adventure and treasure. I will not be dissuaded from basking in the excitement of having that world come to life on the screen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7v1hIkYH24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ---
 [^1]  [Patches M. First Lord of the Rings: The Rings of Power photos tease Amazon’s epic series. Polygon. Published February 10, 2022. Accessed February 11, 2022.] (https://www.polygon.com/22927015/amazon-lord-of-the-rings-the-rings-of-power-character-photos-galadriel)
