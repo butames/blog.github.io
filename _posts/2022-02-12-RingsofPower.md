@@ -6,9 +6,10 @@ featured_image: 'images/blog_images/2022-02-12-rivendell.jpeg'
 excerpt: The Rings of Power series based on Tolkien's earlier works will be relased by Amazon for its streating service. But Amazon's creative changes are sure to draw the ire of some fans.
 ---
 
-| ![rivendell](/images/blog_images/2022-02-12-Ringsofpower6.jpeg)| 
-|:--:| 
-| *A sketch of Middle Earth by J.R.R. Tolkien* |
+{: .cssclass1 .cssclass2 }
+![Rivendell](/images/blog_images/2022-02-12-Ringsofpower6.jpeg "Rivendell")
+*A sketch of Middle Earth by J.R.R. Tolkien*
+
 
 Recently, a television series based on Tolkien's world of Middle Earth revealed some still images. The show for now titled, **"Rings of Power"**, is being produced by Amazon's streaming service. The show will chronicle some of the events described in the *Silmarillion* and captured in some of Tolkien's rough notes. I am excited, but oh boy, I am not looking forward to the inevitable backlash. Tolkien famously created a world rich in fantastical sentient beings but lacking diversity regarding humans. The humans we meet in his works are white and mostly male. Notable human female exceptions are Eowyn, niece of Theoden, the ruler of the Rohan, and slayer of the Witch-King of Angmar. There is also the unnamed healer woman at the end of *The Return of the King* (Loretta?), who declares that "The hands of the king are the hands of a healer."
 
