@@ -6,7 +6,7 @@ featured_image: 'images/blog_images/2022-02-12-rivendell.jpeg'
 excerpt: The Rings of Power series based on Tolkien's earlier works will be relased by Amazon for its streating service. But Amazon's creative changes are sure to draw the ire of some fans.
 ---
 
-{: .cssclass1 .cssclass2 }
+
 ![Rivendell](/images/blog_images/2022-02-12-Ringsofpower6.jpeg "Rivendell")
 *A sketch of Middle Earth by J.R.R. Tolkien*
 
