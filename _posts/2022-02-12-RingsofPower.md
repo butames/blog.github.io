@@ -16,7 +16,7 @@ Recently, a television series based on Tolkien's world of Middle Earth revealed 
 
 
 <figure>
-  <img src="{{site.url}}/images/blog_images/2022-02-12-Ringsofpower7.jpeg "alt="Rivendell"/>
+  <img src="{{site.url}}/images/blog_images/2022-02-12-Ringsofpower7.jpeg "alt="Eowyn_Angmar"/>
   <figcaption>Eowyn battling the Witch-King of Angmar.</figcaption>
 </figure>
 
