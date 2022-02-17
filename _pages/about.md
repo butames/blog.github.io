@@ -13,6 +13,9 @@ Hello everyone,
 
 Welcome to my small website. I am research faculty at [Florida State University, College of Medicine](https://med.fsu.edu/). I work within the [Center for Translational Behavioral Science (CTBScience)](https://ctbs.fsu.edu/). My academic background is in public health, specifically health policy and management. My current work focuses on implementing and sustaining interventions in clinical care settings focused on American youth at risk for HIV. The ongoing career journey is great so far!
 
+## Resume/ Curriculum Vitae
+
+<a href="http://butames.com/markdown-cv/" class="button button--large">Resume/CV</a>
 
 ## Faculty Page/ Profile
 
