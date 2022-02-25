@@ -4,7 +4,7 @@ subtitle: 'Amazon is releasing the *Rings of Power* series soon and I am excited
 date: 2022-02-12 00:08:08
 featured_image: 'images/blog_images/2022-02-12-rivendell.jpeg'
 categories: [Tech, Personal]
-excerpt: The Rings of Power series based on Tolkien's earlier works will be relased by Amazon for its streating service. But Amazon's creative changes are sure to draw the ire of some fans.
+excerpt: The Rings of Power series based on Tolkien's earlier works will be released by Amazon for its streaming service. But Amazon's creative changes are sure to draw the ire of some fans.
 ---
 
 <figure>
