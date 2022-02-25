@@ -1,5 +1,5 @@
 ---
-title: 'It's official, condoms are safe for anal sex'
+title: 'It is official, condoms are safe for anal sex'
 subtitle: 'Condoms are given FDA approval for use in anal sex.'
 date: 2022-02-25 00:01:35
 featured_image: 'images/blog_images/2022-02-25-fdacondoms.png'
@@ -8,7 +8,7 @@ excerpt: The diligent work of researchers have finally established condoms as sa
 
 This is interesting, apparently condoms could not be marketed by a manufacturer as safe for anal sex. 
 
-![I never knew.](https://tenor.com/TJJQ.gif)
+![I never knew.](https://c.tenor.com/X8i6_noN4isAAAAC/tony-baker-suprised.gif)
 
 > Davin Wedel, president and founder of Global Protection Corp, said, “I think most people would be surprised to know that condoms are not approved for anal sex. With this new designation from the FDA, consumers will have important information about the safety and effectiveness of condoms for anal sex.”
 
