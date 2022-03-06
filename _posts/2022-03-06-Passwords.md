@@ -1,7 +1,7 @@
 ---
 title: 'Passwords can be a bother'
 subtitle: 'Chalk it up to a privilege borne out of hardship'
-date: 2022-03-06 00:03:25
+date: 2022-03-06 00:03:30
 featured_image: 'images/blog_images/2022-03-06-passwords.png'
 excerpt: Who amongst us has not been in this situation?
 ---
