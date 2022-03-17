@@ -10,7 +10,7 @@ Who amongst us has not been in this situation? This very morning, I struggled to
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}/images/blog_images/2022-03-06-Pervis.png" alt="Pervis - Password" width="200"/>
+    <img src="{{site.url}}/images/blog_images/2022-03-06-Pervis.png" alt="Pervis - Password" width="500"/>
   <figcaption>Pervis - The problem with passwords.</figcaption>
   </p>
 </figure>
