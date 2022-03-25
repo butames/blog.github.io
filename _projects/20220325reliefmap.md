@@ -9,8 +9,8 @@ Recently, I have found myself playing with creating relief maps, which is anothe
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}/images/porjects/20220325relief1.png" alt="Ghana - Shaded Relief Map" width="500"/>
-  <figcaption>Pervis - The problem with passwords.</figcaption>
+    <img src="{{site.url}}/images/projects/20220325relief1.png" alt="Ghana Relief Map" width="500"/>
+  <figcaption>Ghana 3D Shaded Relief Map.</figcaption>
   </p>
 </figure>
 
