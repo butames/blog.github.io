@@ -9,7 +9,7 @@ Recently, I have found myself playing with creating relief maps, which is anothe
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}/images/projects/20220325relief1.png" alt="Ghana Relief Map" width="500"/>
+    <img src="{{site.url}}/images/projects/20220325relief1.jpg" alt="Ghana Relief Map" width="500"/>
   <figcaption>Ghana 3D Shaded Relief Map.</figcaption>
   </p>
 </figure>
