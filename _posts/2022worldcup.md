@@ -1,7 +1,7 @@
 ---
 title: 'Ghana versus Uruguay-- It is on sight!'
 subtitle: 'Ghana will take the field against a mortal enemy'
-date: 2022-04-02 00:02:30
+date: 2022-04-02 00:03:15
 featured_image: 'images/blog_images/202204worldcup01.jpeg'
 excerpt: The group draws for the 2022 World Cup in Qatar have been held
 ---
