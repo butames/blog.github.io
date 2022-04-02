@@ -1,9 +1,9 @@
 ---
-title: 'Ghana vs. Uruguay-- It's on sight!'
-subtitle: 'Some ten years later, Ghana will take the field against a mortal enemy'
-date: 2022-04-02 00:02:20
+title: 'Ghana versus Uruguay-- It is on sight!'
+subtitle: 'Ghana will take the field against a mortal enemy'
+date: 2022-04-02 00:02:30
 featured_image: 'images/blog_images/202204worldcup01.jpeg'
-excerpt: The group draws for the 2022 World Cup in Qatar have been held, and Ghana has found itself in Group H.
+excerpt: The group draws for the 2022 World Cup in Qatar have been held
 ---
 
 <figure>
@@ -13,7 +13,11 @@ excerpt: The group draws for the 2022 World Cup in Qatar have been held, and Gha
   </p>
 </figure>
 
+
 The group draws for the 2022 World Cup in Qatar have been held, and Ghana has found itself in Group H. It is a tough group, and to be honest; I don't hold much for our chances. Our performances during the qualifiers and the recently ended African Cup of Nations, coupled with the Ghana Football Association's shedding of multiple managers, will likely impair our performance. C.K. Akonor helmed the team until late 2021, then along came Milovan Rajevac, whom we dismissed after our abysmal showing at AFCON 2022, and now we have Otto Addo as the steersman. 
+
+
+
 Frankly, I don't see us being able to clamber out of Group H. We would have to overcome a robust Portugal and their ever-youthful talisman, Christiano Ronaldo. There will also be the fleet-footed Korean Republic. They always seem to have extra energy when it comes to these international competitions. And then there will be Uruguay with several hardened veterans looking to make their mark. 
 As I said, I am not placing much hope for our chances. But, if we can beat Uruguay and prevent them from moving to the next tournament stage, I'll sleep comfortably.
 
