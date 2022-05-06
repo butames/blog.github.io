@@ -10,7 +10,7 @@ excerpt: One day you are dreadlocks, well dread!
 
 The disturbing news from the SCOTUS caused many to pause and think about the fickle nature of our civil rights. Roe and many of the Court decisions of that era established human rights in significant ways for women and historically marginalized communities. If a watershed decision can be discarded in such a manner, then what we are seeing is:
 
-> One set forwards, two steps backwards
+> One step forwards, two steps backwards
 
 > Down ina Babylon
 
