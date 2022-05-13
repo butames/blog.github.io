@@ -7,7 +7,7 @@ featured_image: '/images/blog_images/2022-05-13-suncolors.gif'
 
 ## Styling a table in markdown
 
-I love the tableau color blind palette^[1]. This particular palette is a series of blues, oranges, and greys that are easy on the eyes and help make viewing figures, tables, charts, and sundry visualizations quite pleasing. I have decided to capture those colors here, should I need to reference them for various projects. Additionally, I get to learn how to create stylized tables in Markdown. 
+I love the tableau color blind palette[^1]. This particular palette is a series of blues, oranges, and greys that are easy on the eyes and help make viewing figures, tables, charts, and sundry visualizations quite pleasing. I have decided to capture those colors here, should I need to reference them for various projects. Additionally, I get to learn how to create stylized tables in Markdown. 
 
 <style>
     .heatMap {
