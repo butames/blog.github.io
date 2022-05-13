@@ -33,20 +33,20 @@ I love the tableau color blind palette^[1]. This particular palette is a series 
 
 <div class="heatMap">
 
-| Description | HEX | RGB | CMYK | 
-| -- | -- | -- | -- |
-| Dark Blue | #1170aa | 17, 112, 170 | 90%, 34%, 0%, 33% |
-| Medium Blue | #5fa2ce | 95, 162, 206 | 54%, 21%, 0%, 19% |
-| Light Blue | #a2cce8 | 163, 204, 233 |30%, 12%, 0%, 9% |
-| Dark Orange | #c85200 | 200, 82, 0 | 0%, 59%, 100%, 22% |
-| Medium Orange | #fc7f0a | 252, 125, 11 | 0%, 50%, 96%, 1% |
-| Light Orange | #ffbc79 | 255, 188, 121 | 0%, 26%, 53%, 0% |
-| Dark Grey | #57606c | 87, 96, 108 | 19%, 11%, 0%, 58% |
-| Medium Grey | #7b848f | 123, 132, 143 | 14%, 8%, 0%, 44% |
-| Light Grey | #a3acb9 | 164, 173, 186 | 12%, 7%, 0%, 27% |
+| Description   | HEX     | RGB             | CMYK               | 
+|---------------|---------|-----------------| -------------------|
+| Dark Blue     | #1170aa | 17, 112, 170    | 90%, 34%, 0%, 33%  |
+| Medium Blue   | #5fa2ce | 95, 162, 206    | 54%, 21%, 0%, 19%  |
+| Light Blue    | #a2cce8 | 163, 204, 233   |30%, 12%, 0%, 9%    |
+| Dark Orange   | #c85200 | 200, 82, 0      | 0%, 59%, 100%, 22% |
+| Medium Orange | #fc7f0a | 252, 125, 11    | 0%, 50%, 96%, 1%   |
+| Light Orange  | #ffbc79 | 255, 188, 121   | 0%, 26%, 53%, 0%   |
+| Dark Grey     | #57606c | 87, 96, 108     | 19%, 11%, 0%, 58%  |
+| Medium Grey   | #7b848f | 123, 132, 143   | 14%, 8%, 0%, 44%   |
+| Light Grey    | #a3acb9 | 164, 173, 186   | 12%, 7%, 0%, 27%   |
 
 </div>
 
-^[[Tableau Color Palettes (discrete) - By Jeffrey B. Arnold](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html)]
+^[^1]:[Tableau Color Palettes (discrete) - By Jeffrey B. Arnold](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html)
 ---
 Banner Theme: Our star seen at different wavelengths by NASA Solar Dynamics Observatory (SDO) (Credit : NASA Goddard Visualization Studio / Tom Bridgman.)
