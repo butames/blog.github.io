@@ -47,6 +47,6 @@ I love the tableau color blind palette^[1]. This particular palette is a series 
 
 </div>
 
-^[^1]:[Tableau Color Palettes (discrete) - By Jeffrey B. Arnold](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html)
+[^1]:[Tableau Color Palettes (discrete) - By Jeffrey B. Arnold](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html)
 ---
 Banner Theme: Our star seen at different wavelengths by NASA Solar Dynamics Observatory (SDO) (Credit : NASA Goddard Visualization Studio / Tom Bridgman.)
