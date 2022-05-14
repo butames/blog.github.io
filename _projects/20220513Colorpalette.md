@@ -33,6 +33,9 @@ I love the tableau color blind palette[^1]. This particular palette is a series 
 </style>
 
 <div class="heatMap">
+</div>
+
+```
 
 | Description   | HEX     | RGB             | CMYK               | 
 |---------------|---------|-----------------| -------------------|
@@ -46,9 +49,7 @@ I love the tableau color blind palette[^1]. This particular palette is a series 
 | Medium Grey   | #7b848f | 123, 132, 143   | 14%, 8%, 0%, 44%   |
 | Light Grey    | #a3acb9 | 164, 173, 186   | 12%, 7%, 0%, 27%   |
 
-</div>
 
-```
 
 [^1]:[Tableau Color Palettes - By Jeffrey B. Arnold](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html)
 
