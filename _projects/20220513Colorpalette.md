@@ -9,6 +9,7 @@ featured_image: '/images/blog_images/2022-05-13-suncolors.gif'
 
 I love the tableau color blind palette[^1]. This particular palette is a series of blues, oranges, and greys that are easy on the eyes and help make viewing figures, tables, charts, and sundry visualizations quite pleasing. I have decided to capture those colors here, should I need to reference them for various projects. Additionally, I get to learn how to create stylized tables in Markdown. 
 
+```
 <style>
     .heatMap {
         width: 100%;
@@ -46,6 +47,8 @@ I love the tableau color blind palette[^1]. This particular palette is a series 
 | Light Grey    | #a3acb9 | 164, 173, 186   | 12%, 7%, 0%, 27%   |
 
 </div>
+
+```
 
 [^1]:[Tableau Color Palettes - By Jeffrey B. Arnold](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html)
 
