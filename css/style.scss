@@ -110,8 +110,6 @@ $p-spacing: {{ site.data.settings.font_settings.p.letter_spacing }}em;
 $p-lineheight: {{ site.data.settings.font_settings.p.line_height }};
 
 $blockquote-small: {{ site.data.settings.font_settings.blockquote.small_size }}px;
-$blockquote-medium: {{ site.data.settings.font_settings.blockquote.medium_size }}px;
-$blockquote-large: {{ site.data.settings.font_settings.blockquote.large_size }}px;
 $blockquote-weight: {{ site.data.settings.font_settings.blockquote.weight }};
 $blockquote-spacing: {{ site.data.settings.font_settings.blockquote.letter_spacing }}em;
 $blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_height }};
