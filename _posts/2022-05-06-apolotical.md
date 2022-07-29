@@ -34,4 +34,8 @@ Then there are the wealthy elements in society who have seized on the nomination
 For the system and its advocates to continue insisting that they are apolitical is a clear case of the adage *"you're urinating on my leg while telling me it is raining"*. I can understand the need for secrecy and the need to operate in a vacuum-like state that excludes public pressure. However, justices come to the position with deep biases, and elected officials count on those deep biases to advance their positions. Reading Alito's arguments in the leaked document is a clear example of those deep biases. Good god, I mean, how can you, in good faith, argue that a law that has been in place for fifty-something years lacks the necessary history and traditional context and, therefore, must be overturned. That is at least two generations of adults who have come up during the time. When that law was passed, half the African continent was still under European rule, and the US was still slaughtering people in Vietnam. To argue that it lacks historical and traditional support is asinine. 
 
 ---
-Image source: [Erin Schaff/The New York Times](https://www.nytimes.com/2022/05/04/us/politics/roberts-alito-abortion-roe-v-wade.html)
+Header Image Information:
+The Roberts Court (Seated from left to right: Justices Samuel A. Alito, Jr. and Clarence Thomas, Chief Justice John G. Roberts, Jr., and Justices Stephen G. Breyer and Sonia Sotomayor/ Standing from left to right: Justices Brett M. Kavanaugh, Elena Kagan, Neil M. Gorsuch, and Amy Coney Barrett.)
+Photograph by Fred Schilling, Collection of the Supreme Court of the United States (https://flic.kr/p/2nyXkGm)
+
+Title Image source: [Erin Schaff/The New York Times](https://www.nytimes.com/2022/05/04/us/politics/roberts-alito-abortion-roe-v-wade.html)
