@@ -1,5 +1,5 @@
 ---
-title: 'The rings in the *Twelve Days of Christmas*'
+title: 'The rings in the Twelve Days of Christmas'
 subtitle: 'Eddie Izzards interpretation of a holiday classic.'
 date: 2022-11-18 20:30:00
 featured_image: '/images/blog_images/2022-11-05-xmas9.jpg'
