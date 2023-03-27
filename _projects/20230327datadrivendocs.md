@@ -12,6 +12,7 @@ featured_image: '/images/blog_images/2023-03-27-interface.gif'
   </p>
 </figure>
 
+
 # Brief Introduction to D3 (i.e., Data-Driven Documents)
 
 It is fast, it is a great framework and it is free.
@@ -20,9 +21,12 @@ It is fast, it is a great framework and it is free.
 
 I have created a Github Repository to capture much of what I am documenting here to aid in my use of D3.
 
+
 ## Tools Needed
 
+
 1. You need some sort of IDE (i.e., an integrated development environment), to write out your code.
+
 
 <figure>
   <p align="center">
@@ -36,6 +40,7 @@ I am going to Visual Studio Code (VSCode). It is a product from Microsoft that s
 
 2. You will need some sort of web-browser.
 
+
 <figure>
   <p align="center">
     <img src="{{site.url}}https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="Coding Window" width="25%"/>
@@ -44,10 +49,11 @@ I am going to Visual Studio Code (VSCode). It is a product from Microsoft that s
 </figure>
 
 
-
 I prefer to use Chrome. It is the browser I use most frequently for my work, and research and for play.
 
+
 3. You will need a web server. 
+
 
 A suggested is server is the `python -m htpp.server`.
 
