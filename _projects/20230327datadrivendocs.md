@@ -5,10 +5,11 @@ date: 2023-03-27 19:30:00
 featured_image: '/images/blog_images/2023-03-27-interface.gif'
 ---
 
+
 <figure>
   <p align="center">
     <img src="{{site.url}}/images/blog_images/2023-03-15-window.svg" alt="Coding Window" width="25%"/>
-  <figcaption> Coding Window.</figcaption>
+  <figcaption align="center"> Coding Window.</figcaption>
   </p>
 </figure>
 
@@ -28,10 +29,14 @@ I have created a Github Repository to capture much of what I am documenting here
 1. You need some sort of IDE (i.e., an integrated development environment), to write out your code.
 
 
+
+
+
+
 <figure>
   <p align="center">
-    <img src="{{site.url}}https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Coding Window" width="25%"/>
-  <figcaption>Visual Studio Code</figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Coding Window" width="25%">
+  <figcaption align="center">Visual Studio Code</figcaption>
   </p>
 </figure>
 
@@ -43,8 +48,8 @@ I am going to Visual Studio Code (VSCode). It is a product from Microsoft that s
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="Coding Window" width="25%"/>
-  <figcaption>Visual Studio Code</figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="Coding Window" width="25%">
+  <figcaption align="center">Visual Studio Code</figcaption>
   </p>
 </figure>
 
