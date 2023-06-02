@@ -7,7 +7,7 @@ featured_image: '/images/blog_images/2022-11-05-xmas9.jpg'
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}/images/blog_images/2022-11-18-daysofxmas.jpeg" alt="Leonardo DiCaprio" width="500"/>
+    <img src="{{site.url}}/images/blog_images/2022-11-18-daysofxmas.jpeg" alt="Days of Xmas" width="500"/>
   <figcaption>The Twelve Days of Christmas song poster (Xavier Romero-Frias).</figcaption>
   </p>
 </figure>
