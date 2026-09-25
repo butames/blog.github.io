@@ -4,6 +4,19 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 ---
 
+## Previewing the site locally
+
+The live site is built by GitHub Pages. The `Gemfile` uses the `github-pages` gem, so a local build uses the same Jekyll version and plugins:
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
+Then open http://localhost:4000.
+
+---
+
 ## Getting started
 
 Copy the theme files to your website directory.
