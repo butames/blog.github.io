@@ -15,7 +15,7 @@ Welcome to my small website. I am research faculty at [Florida State University,
 
 ## Resume/ Curriculum Vitae (CV)
 
-<a href="http://butames.com/markdown-cv/" class="button button--large">Resume/CV</a>
+<a href="https://butames.com/markdown-cv/" class="button button--large">Resume/CV</a>
 
 ## Faculty Page/ Profile
 
