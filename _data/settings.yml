@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'www.linkedin.com/in/butames'
+  linkedin_url: 'https://www.linkedin.com/in/butames'
 
 color_settings:
   background_color: '#ffffff'

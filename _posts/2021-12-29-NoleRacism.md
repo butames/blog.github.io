@@ -1,6 +1,5 @@
 ---
 title: 'Using ethnicity as a mascot.'
-subtitle: 'This is a demo'
 date: 2021-12-29 00:07:05
 featured_image: '/images/background/winter_night2.jpg'
 excerpt: Where I gripe some more about FSU using the seminole people as a mascot.

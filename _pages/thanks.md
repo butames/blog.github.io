@@ -1,10 +1,10 @@
 ---
 title: Thank you
 subtitle: Your message was sent successfully.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+description: Thanks for getting in touch with Seyram A. Butame.
 featured_image: /images/background/background2.jpg
 ---
 
 ![](/images/thanks/headbanger.gif)
 
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+Thanks for reaching out. I read every message and will get back to you as soon as I can.

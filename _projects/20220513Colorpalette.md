@@ -2,7 +2,7 @@
 title: 'Palettes and Tables'
 subtitle: 'My favorite color palette and learning to style a table'
 date: 2022-05-13 00:06:55
-featured_image: '/images/blog_images/2022-05-13-suncolors.gif'
+featured_image: '/images/blog_images/2022-05-13-suncolors.jpg'
 ---
 
 ## Styling a table in markdown

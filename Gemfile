@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.8.5'
+# Matches the Jekyll version and plugins GitHub Pages builds the live site with
+gem 'github-pages', group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem 'jekyll-paginate'
-  gem 'jekyll-sitemap'
-end
+# Needed for `jekyll serve` on Ruby 3.0+
+gem 'webrick'

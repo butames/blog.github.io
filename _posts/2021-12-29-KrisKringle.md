@@ -1,6 +1,5 @@
 ---
 title: 'Santa wins this TikTok Challenge.'
-subtitle: 'This is a demo'
 date: 2021-12-29 00:11:35
 featured_image: '/images/background/winter_night2.jpg'
 excerpt: The best looking Santa I saw this holiday season.
