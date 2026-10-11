@@ -1,0 +1,37 @@
+---
+title: Scented candles and the COVID-19 pandemic.
+date: '2021-12-22T00:03:30'
+excerpt: Is the pandemic causing the rise in "no-smell" complaints and product reviews? What I don't know will shock me; more at 11
+url: /blog/Yankee/
+---
+![](/images/blog_images/2021-12-22-Yankee.png)
+
+Scented candles are a multibillion-dollar industry. Yankee Candle&reg; is one of the more recognizable brands in this pleasant-smelling home accessories market. Yankee Candle&reg; was initially bought out by a large conglomerate for 1.75 billion USD and was later valued at 15 billion USD when the parent company was acquired by another conglomerate. These are not small sums and demonstrate the appeal of the product. 
+
+Anyway, some eagle-eyed folks noticed that there had been a slew of negative reviews left for Yankee Candle&reg; products in the intervening weeks. Many of the single-star complaints are from customers who claim they can not smell the candles at all. I understand their frustrations; if your house does not smell like Sparkling Cinnamon&trade;, then all you've got is a tiny flame dancing atop, a rather expensive jar of burning red wax.
+
+Further digging on the part of these agents of rushlight uncovered previous upswings in negative reviews followed by troughs when poor reviews fell. It appears to be a trend which has gone on for about two years now. And what you may ask, has the world been dealing with for the past two years? Turns out we've been plagued by a pandemic of which one of the less death-causing symptoms is a disruption of the olfactory senses, leading to an inability to smell or taste. And with every new wave of the COVID-19 family of viruses that crashes through respective communities, drowning our lives in further malaise and desolation, there are thousands of loyal scented candle owners who are unable to soak in their favorite accessory. An interesting case of correlated factors. 
+
+Twitter user [Eleanor (@zornsilama)](https://twitter.com/zornsllama/status/1473575508784955394?s=21) plotted negative "no smell" complaints for Yankee Candle's top three products on Amazon (see first image below). Then superimposed the plot over the google COVID-19 dashboard of new infections (see second image below). The result is an interesting chart showing "no smell" complaints peaking in mid-to-late January of 2021 when the pandemic was at its zenith. Then complaints declined to their lowest point in the summer and began to rise again as new infections ticked back up.
+
+<div class="gallery" data-columns="1">
+	<img src="/images/blog_images/2021-12-22-Yankee2.png">
+	<img src="/images/blog_images/2021-12-22-Yankee3.png">
+</div>
+
+The chart is certainly not conclusive, and statisticians should have a field day with this project (I say this as if I am not trained in this field and should try and take it up). But it is fascinating, and if shown to be a significant relationship, it indicates how the pandemic has affected some of the more mundane aspects of our lives. Another point, if indeed COVID-19 infections are what is driving the "no smell" complaints, and not something like a manufacturing problem at the Yankee Candle factory, it is worrying that people cannot put the two together. It could mean many become infected and have no clue at all, with only the mildest symptoms reflected in the changes to the olfactory senses. For public health, it's a bit more concerning. For one, the pandemic has been raging for nearly two years, and a lot of energy has been spent educating and disseminating information. So, if people cannot identify the symptoms, then perhaps our public health efforts have been a failure. Alternatively, it could mean that even when people notice changes to their normal body activities, they don't consult a health provider for whatever reason. This is another troubling indicator of how the American public consumes health care.
+
+---
+## Update
+
+There was a write-up on this very issue last year when [Christopher Ingraham](https://www.washingtonpost.com/business/2020/12/01/covid-scented-candle-reviews/), a staff writer for The Washington Post, profiled the analysis and work of  Kate Petrova. Petrova is a researcher at the Harvard Study of Adult Development at Bryn Mawr College, and having scrapped 20,000 reviews from the Amazon candle review pages for popular scented and unscented candles, made the following observations:
+
+* Before 2020, reviews of the top scented candles hovered between 4 and 4½ stars, year after year. But, by January of 2020, those scores fallen by roughly one full star (i.e., to between 3 and 3½ stars).
+* At the time of Petrova's analysis, unscented candle reviews didn’t show the same pattern (see Figure below).
+
+
+![](/images/blog_images/2021-12-22-Yankee4.png)
+
+* Petrova also observed that the proportion of scented candle reviews containing terms such as, “no scent,” “no smell” and “can’t smell,” nearly tripled from January 2020 to November 2020, from roughly 2 percent to 6 percent. Petrova's theory was taht such terms highlighted a perceived lack of scent (see Figure below). 
+
+![](/images/blog_images/2021-12-22-Yankee5.png)

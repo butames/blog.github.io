@@ -1,0 +1,104 @@
+baseURL = "https://butames.com/"
+theme = "hugo-apero"
+languageCode = "en"
+title = "Seyram A. Butame"
+author = "Seyram A. Butame"
+copyright = ""
+metaDataFormat = "yaml"
+footnoteReturnLinkContents = "&#8617;"
+preserveTaxonomyNames = true
+disablePathToLower = true   # keep old URLs such as /blog/Winter working
+enableEmoji = true
+
+[pagination]
+  pagerSize = 12
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+    hardwraps = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+    ordered = false
+  [markup.highlight]
+    style = "github"
+
+[params]
+  orgName = "Seyram A. Butame"
+  orgLocal = "Tallahassee, FL"
+  description = "Blog and projects by Seyram A. Butame."
+  favicon = "/images/favicon-sab.png"
+  logo = ""
+  mainSections = ["blog", "project"]
+  navallcaps = true
+  socialInHeader = false
+  socialInFooter = true
+  sharing_image = "/images/about/about-portrait.jpg"
+  twitter = "butames"
+  theme = "sky"
+  custom_theme = ""
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
+  textFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif"
+  comments = ""
+
+  [params.math]
+    renderer = "katex"
+
+  [[params.social]]
+      icon      = "x-twitter"
+      icon_pack = "fab"
+      url       = "https://twitter.com/butames"
+  [[params.social]]
+      icon      = "instagram"
+      icon_pack = "fab"
+      url       = "https://www.instagram.com/butames/"
+  [[params.social]]
+      icon      = "linkedin"
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/butames"
+  [[params.social]]
+      icon      = "rss"
+      icon_pack = "fas"
+      url       = "/blog/index.xml"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[menu]
+  [[menu.header]]
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.header]]
+    name = "Projects"
+    title = "Projects"
+    url = "/project/"
+    weight = 3
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 4
+  [[menu.footer]]
+    name = "Contact"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 1
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true

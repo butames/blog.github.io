@@ -1,0 +1,28 @@
+---
+title: A volcano goes boom!
+subtitle: Hunga Tonga-Hunga Haʻapai erupts spectacularly
+date: '2022-01-15T00:03:38'
+excerpt: This morning, Hunga Tonga-Hunga Haʻapai, a volcano in the Pacific not too far from the island nation of Tonga, erupted violently.
+url: /blog/Volcano/
+---
+![](/images/blog_images/2022-01-15-HungaTongaHungaHaapai.jpeg)
+
+
+Just wow. This morning, Hunga Tonga-Hunga Haʻapai, a volcano in the Pacific not too far from the island nation of Tonga, erupted violently. The subsequent destabilization and shockwaves have resulted in tsunami warnings issued for parts of the Pacific and much of the US west coastline[^1]. 
+
+<div class="gallery" data-columns="1">
+	<img src="/images/blog_images/2022-01-15-HungaTongaHungaHaapai.jpg">
+	<img src="/images/blog_images/2022-01-15-HungaTongaHungaHaapai.png">
+</div>
+
+
+However, the marvels of modern technology mean we have a front-row seat to some of this magnificent though incredibly devastating natural occurrence. The Himawari 8, a Japanese weather satellite orbiting nearly 37 thousand kilometers, captured the explosion (see tweet below). 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="ourtKCe"><a href="https://imgur.com/ourtKCe">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="pmDEGVy"><a href="https://imgur.com/pmDEGVy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Images are courtesy of @SpaceRef on [Twitter](https://twitter.com/SpaceRef/status/1482420575016476672)
+
+---
+[^1]: The first image in the carousel is of Hunga Tonga-Hunga Haʻapai (Dec 02, 2013) and is courtesy of [Landsat 8 satellite (Bands: 2, 3, 4, 8) & USGS](https://flic.kr/p/UwfKJm). Data processed by Paul Quast. The second image is an image taken from Google Maps of the same region (Jan 15, 2022).

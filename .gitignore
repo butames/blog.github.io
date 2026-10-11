@@ -1,13 +1,7 @@
 # macOS
 .DS_Store
 
-# Jekyll build output and caches
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Bundler
-.bundle/
-vendor/
-Gemfile.lock
+# Hugo build output and caches
+public/
+resources/_gen/
+.hugo_build.lock
