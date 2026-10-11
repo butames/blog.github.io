@@ -1,0 +1,65 @@
+---
+title: Overturning Roe v. Wade appears to be a reality
+subtitle: A step backwards for reproductive rights
+date: '2022-05-03T00:07:58'
+excerpt: What was once thought to be a frightening possibility appears to have become a reality.
+url: /blog/RoevWade/
+---
+<figure>
+  <p align="center">
+    <img src="/images/blog_images/2022-05-05-roevwade.png" alt="Politico - Roe v. Wade" width="75%"/>
+  <figcaption>Roe v. Wade is gone.</figcaption>
+  </p>
+</figure>
+
+[Reporters at Politico released a draft copy of a Supreme Court majority opinion written by Justice Alito (at least they claim it to be so)](https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473). The draft decision indicates that the Court has passed a decision that essentially overturns Roe v. Wade. Roe is the landmark SCOTUS case that legalized abortion up to a point. And though, in the ensuing decades, it has faced some erosion and a constant barrage of challenges, it has held firm. But, it appears opponents of this decision have finally won. Justice Blackmun’s eloquent argument that the right to privacy is found *in the penumbras of the Bill of Rights* no longer holds sway. Or if it does, women are excluded.
+
+<figure>
+  <p align="center">
+    <img src="/images/blog_images/2022-05-05-roevwade02.png" alt="CNN - Roe v. Wade" width="50%"/>
+  <figcaption>Roe v. Wade is gone.</figcaption>
+  </p>
+</figure>
+
+What a state of affairs this country has gotten into. In many ways, America feels like a backward-facing advanced nation. This breach of court confidentiality may not hold true, but I would not be surprised, given the way things have been heading in the last couple of years. The senior justices (Thomas and Alito) have made no secret about their opposition to the issue of abortion. And the newer appointees, Gorsuch, Kavanaugh, and Coney Barrett, have indicated that they would be willing to overturn what many thought to be a settled matter. 
+
+It is a frightening outcome for women’s reproductive health and the reproductive health of women of color specifically. Couple this leaked decision with the vitriolic language you get from the American right daily, legislation in places like Florida that adversely impacts LGBTQ people, and laws looking to whitewash America’s racist history, and it appears the country is heading to a rather dark place.
+
+--- 
+
+--- Some updates ---
+
+Interesting commentary from CNN legal analyst Joan Biskupic on **Anderson Cooper 360°**:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5gSlqUxbNpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Rachel Maddow speaks with the Politico reporters on **The Rachel Maddow Show**:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UIYxT7Fe60c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+The SCOTUSBlog confirms the leak as legitimate. Which means while the language that is used in the final decision will be alot more polished the essence will remain. What a country. (I should clarify, SCOTUSBlog is a journalistic outlet and not a mouthpiece of the Supreme Court of the US.)
+
+<figure>
+  <p align="center">
+    <img src="/images/blog_images/2022-05-05-roevwade03.png" alt="Tweet by SCOTUSBlog" width="75%"/>
+  <figcaption>SCOTUSBlog confirms the leak as legitimate.</figcaption>
+  </p>
+</figure>
+
+
+Chief Justice Roberts confirms the authenticity of the draft leak. As expected, the Chief Justice (and I assume the Court) is incensed at the breach of procedure, decorum, and perhaps the law. However, I feel that in the coming days, there is going to be a lot of feigned indignation about the leak and not enough about the outcome of the decision and the impact on women. 
+
+<figure>
+  <p align="center">
+    <img src="/images/blog_images/2022-05-05-roevwade04.png" alt="Tweet by SCOTUSBlog" width="75%"/>
+  <figcaption>SCOTUSBlog confirms the leak as legitimate.</figcaption>
+  </p>
+</figure>
+
+
+Senator Elizabeth Warren is rightfully incensed. Honestly, given some of the principles on which Roe rests, if it can be overturned this cavalierly by the Courts, then Americans really ought to be incensed.
+
+<iframe border=0 frameborder=0 height=560 width=550
+ src="https://twitframe.com/show?url=https://twitter.com/willy_lowry/status/1521517935155679237?s=20&t=FtIN2H37yDNhIqzeOsPH2A"></iframe>
